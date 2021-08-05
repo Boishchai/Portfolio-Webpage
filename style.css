@@ -1,0 +1,33 @@
+h1 {
+    color: #FFFFFF;
+}
+
+.Header
+{
+    background-color: #da113c;
+    border: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.BigL
+{
+    background-color: #3f3de2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+p, h2
+{
+    color: white;
+    text-align: center;
+}
+
+.description
+{
+    background-color: rgb(252, 190, 21);
+    border: solid;
+}
